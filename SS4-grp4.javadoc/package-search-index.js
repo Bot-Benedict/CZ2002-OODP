@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"moblima"},{"l":"moblima.controller"},{"l":"moblima.model"},{"l":"moblima.view"}]

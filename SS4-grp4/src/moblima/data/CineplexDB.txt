@@ -1,0 +1,3 @@
+Jurong Point Cineplex|001|20.0
+Paya Lebar Cineplex|002|8.0
+Vivo City Cineplex|003|8.0
